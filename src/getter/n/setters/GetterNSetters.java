@@ -17,5 +17,7 @@ public class GetterNSetters {
 //Dispaly
     System.out.print("Name is " + Log.getName()); 
     }
+   /// System.out.println("jghjhb");
+    
     
 }
